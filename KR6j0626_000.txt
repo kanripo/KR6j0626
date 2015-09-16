@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說安宅神經
+#+DATE: 2015-08-30 20:36:36.560605
+#+PROPERTY: JUAN 0
