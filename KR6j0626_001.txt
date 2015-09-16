@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:36.323684
+#+DATE: 2015-08-30 20:36:37.581370
 #+TITLE: 佛說安宅神呪經
 #+PROPERTY: CBETA_ID T21n1394
 #+PROPERTY: ID KR6j0626
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1394
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0626_T_000-0911a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0626_T_001-0911a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1394¶
-
- 佛說安宅神呪經¶
+No. 1394¶
+佛說安宅神呪經¶
 ¶
 後漢失譯人名¶
 
@@ -58,7 +57,7 @@ No.1394¶
 
 爾時世尊復告大眾。諸善男子善女人等。吾¶
 涅槃後五百歲中。眾生垢重邪見轉熾　魔道¶
-競興妖魅妄作。𨶳人門戶各伺人便。覓人長¶
+競興妖魅妄作。[門@視]人門戶各伺人便。覓人長¶
 短為作不祥種種留難。當爾之時是諸弟子。¶
 應當一心念佛念法念比丘僧。齋戒清淨奉
 <pb:KR6j0626_T_001-0911c>¶
